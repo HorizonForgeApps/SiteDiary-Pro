@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horizonforgeapps.github.io/SiteDiary-Pro/sitemap.xml
